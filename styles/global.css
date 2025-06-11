@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    /* Fonts */
+    --font-primary: 500 24px/1.5 "Roboto", sans-serif;
+    --font-secondary: 400 16px/1.5 "Roboto", sans-serif;
+
+    /* Colors */
+    --color-primary: #0084FF;
+    --color-secondary: #ffffff;
+}
