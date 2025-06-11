@@ -6,10 +6,15 @@
 
 :root {
     /* Fonts */
-    --font-primary: 500 24px/1.5 "Roboto", sans-serif;
-    --font-secondary: 400 16px/1.5 "Roboto", sans-serif;
+    --font-primary: 500 30px/1.5 "Roboto", sans-serif;
+    --font-secondary: 400 18px/1.5 "Roboto", sans-serif;
 
     /* Colors */
     --color-primary: #0084FF;
     --color-secondary: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: inherit
 }
