@@ -113,6 +113,10 @@
 
       & .social-links {
         gap: 15px;
+
+        & a:active {
+           background-color: #103d67cc; 
+        }
       }
     }
   }
