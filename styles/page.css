@@ -90,3 +90,31 @@
         }
     }
 }
+
+@media screen and (max-width: 630px) {
+    .main-container {
+        & main {
+            width: 100%;
+            max-width: 450px;
+        }
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .main-container {
+        & main {
+            width: 100%;
+            max-width: 350px;
+
+            & .title {
+                margin-top: 15px;
+            }
+
+            & .social-links {
+                gap: 15px;
+            }
+        }
+
+        
+    }
+}
