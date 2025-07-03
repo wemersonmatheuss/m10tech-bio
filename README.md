@@ -29,7 +29,6 @@ Essa abordagem simplifica a divulgação dos canais e melhora a experiência do 
 
 - **HTML5** — estrutura simples e semântica
 - **CSS3** — estilização clean, minimalista e responsiva
-- **JavaScript** — interatividade leve (se houver)
 
 ---
 
